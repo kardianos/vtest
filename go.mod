@@ -1,1 +1,1 @@
-module "github.com/kardianos/vtest"
+module "github.com/kardianos/vtest/v2"
