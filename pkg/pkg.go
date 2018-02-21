@@ -1,6 +1,5 @@
 package pkg
 
 func X() string {
-	return "x"
+	return "World"
 }
-

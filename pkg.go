@@ -1,5 +1,5 @@
 package vtest
 
 func Peace() string {
-	return " that can live in peace."
+	return "that can live in peace."
 }
