@@ -1,5 +1,5 @@
 package vtest
 
-func Dream() string {
-	return "of a nation"
+func Peace() string {
+	return " that can live in peace."
 }
